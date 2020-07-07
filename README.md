@@ -1,1 +1,2 @@
 # Machine-Learning
+Supervised Learning:
